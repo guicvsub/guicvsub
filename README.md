@@ -11,3 +11,5 @@
 <img src="https://skillicons.dev/icons?i=java,spring,python,flask,mysql,linux,git,github,docker,vscode" />
 
 </div>
+
+![snake](https://github.com/guicvsub/guicvsub/blob/output/github-contribution-grid-snake.svg)
