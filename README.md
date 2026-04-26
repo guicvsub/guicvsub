@@ -2,16 +2,24 @@
 
 
 ### 🚀 Tecnologias & Ferramentas
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,flask,mysql,linux,git,github,docker,vscode" />
 
 </div>
 
 
-### 🟡 Contribuições
 
 
-<img src="https://raw.githubusercontent.com/guicvsub/guicvsub/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribuições
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guicvsub/guicvsub/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://github.com/guicvsub/guicvsub/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 <div align="left">
 
