@@ -12,7 +12,8 @@
 
 </div>
 
-###🟡 Contribuições
+
+### 🟡 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/guicvsub/guicvsub/blob/output/github-contribution-grid-snake-dark.svg">
