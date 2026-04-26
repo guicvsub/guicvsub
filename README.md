@@ -23,11 +23,11 @@
 
 ### 🔴 Redes Sociais
 
-<a href="https://www.linkedin.com/in/guilherme-santiago-da-silva" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-santiago-da-silva">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.facebook.com/guilherme.santiago.50115" target="_blank">
+<a href="https://www.facebook.com/guilherme.santiago.501151">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
 </a>
 
