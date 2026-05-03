@@ -46,7 +46,10 @@
 </div>
 
 ## 📊 Estatísticas do GitHub
+
+
 <div align="left">
-https://github-readme-stats.vercel.app/api?username=guicvsub
+  <img height="160em" src="https://github-readme-stats-indol-ten-vyvu8gii8p.vercel.app/api?username=guicvsub&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats-indol-ten-vyvu8gii8p.vercel.app/api/top-langs/?username=guicvsub&layout=compact&theme=radical&cache_seconds=1800"/>
 </div>
 <div align="left">
